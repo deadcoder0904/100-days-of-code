@@ -51,3 +51,13 @@
 **Blog:** [Day 5](http://deadcoder0904.github.io/100dayz/2016/11/05/Github-Gists/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/github-user-public-gists)
+
+### Day 6: November 6th, 2016 (Example 6)
+
+**Today's Progress**: Created Github Emoji Lists Web App.
+
+**Thoughts:** Used Github Emoji API to make web request.
+
+**Blog:** [Day 6](http://deadcoder0904.github.io/100dayz/2016/11/06/Github-Emoji-List/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/github-emoji-lists)
