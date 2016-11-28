@@ -110,7 +110,9 @@
 
 **Blog:** [Day 11](http://deadcoder0904.github.io/100dayz/2016/11/11/Run Github Trending Every 3 Hours and Push to Github/)
 
-**Code:** `crontab -l | { cat; echo "0 */3 * * * [runGithubTrending](https://github.com/deadcoder0904/personal-bash-scripts/blob/master/runGithubTrending.sh)"; } | crontab -`
+**Code:** `crontab -l | { cat; echo "0 */3 * * * runGithubTrending"; } | crontab -`
+
+`runGithubTrending` can be found [here](https://github.com/deadcoder0904/personal-bash-scripts/blob/master/runGithubTrending.sh).
 
 ### Day 12: November 12th, 2016 (Example 12)
 
