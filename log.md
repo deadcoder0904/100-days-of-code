@@ -243,3 +243,13 @@
 **Blog:** [Day 24](http://deadcoder0904.github.io/100dayz/2016/11/24/Tick-Tock-Your-Time-is-Running-Out/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/tick-tock/)
+
+### Day 25: November 25th, 2016 (Example 25)
+
+**Today's Progress**: Mangling CSS Variables With JS
+
+**Thoughts:** A Simple App which uses CSS variables & if they are updated with JS, then it will reflect in the DOM where the CSS variables were used.
+
+**Blog:** [Day 25](http://deadcoder0904.github.io/100dayz/2016/11/25/Mangling-CSS-variables-with-JS/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/mangling-css-with-js/)
