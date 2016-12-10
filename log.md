@@ -143,3 +143,64 @@
 **Blog:** [Day 14](http://deadcoder0904.github.io/100dayz/2016/11/14/Talk-Like-A-Pirate/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/talk-like-a-pirate)
+
+### Day 15: November 15th, 2016 (Example 15)
+
+**Today's Progress**: Awesome Responsive Navbar .
+
+**Thoughts:** Awesome Navbar which responds on different devices. I used CSS3 flexbox in this.
+
+**Blog:** [Day 15](http://deadcoder0904.github.io/100dayz/2016/11/15/Awesome-Responsive-Navbar/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/responsive-navbar/)
+
+### Day 16: November 16th, 2016 (Example 16)
+
+**Today's Progress**: My Favourite Movies.
+
+**Thoughts:** My awesome Favourite Movies. I've used MovieDB API in this.
+
+**Blog:** [Day 16](http://deadcoder0904.github.io/100dayz/2016/11/16/Favourite-Movies/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/favourite-movies/)
+
+### Day 17: November 17th, 2016 (Example 10)
+
+**Today's Progress**: My Favourite Series.
+
+**Thoughts:** My awesome Favourite Series. I've used MovieDB API in this.
+
+**Blog:** [Day 17](http://deadcoder0904.github.io/100dayz/2016/11/17/Favourite-Series/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/favourite-series/)
+
+### Day 18: November 18th, 2016 (Example 18)
+
+**Today's Progress**: Todo List Without HTTP Requests.
+
+**Thoughts:** Simple Todo App without any HTTP Requests. No server requests. Only jQuery.
+
+**Blog:** [Day 18](http://deadcoder0904.github.io/100dayz/2016/11/18/Todo-Without-HTTP-Requests/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/no-http-todo-app/)
+
+### Day 19: November 19th, 2016 (Example 19)
+
+**Today's Progress**: Todo List With HTTP Requests.
+
+**Thoughts:** Simple Todo App with HTTP Requests. Used jQuery in this.
+
+**Blog:** [Day 19](http://deadcoder0904.github.io/100dayz/2016/11/19/Todo-With-HTTP-Requests/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/http-todo-app/)
+
+### Day 20: November 20th, 2016 (Example 20)
+
+**Today's Progress**: Wrestlers On Sale.
+
+**Thoughts:** I created Wrestlers On Sale Pricing Grid using CSS3 Flexbox.
+
+**Blog:** [Day 20](http://deadcoder0904.github.io/100dayz/2016/11/20/Wrestlers-On-Sale/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/wrestlers-on-sale/)
+
