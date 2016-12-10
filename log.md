@@ -224,3 +224,22 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/refined-github/)
 
+### Day 23: November 23rd, 2016 (Example 23)
+
+**Today's Progress**: Drumster.
+
+**Thoughts:** The app plays audio as soon as you click on the drum or you type the key provided on the drum. Pure JS. No CSS or JS frameworks.
+
+**Blog:** [Day 23](http://deadcoder0904.github.io/100dayz/2016/11/23/Bajaate-Raho/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/drumster/)
+
+### Day 24: November 24th, 2016 (Example 24)
+
+**Today's Progress**: Tick Tock.
+
+**Thoughts:** A Simple Clock which uses CSS Animation.
+
+**Blog:** [Day 24](http://deadcoder0904.github.io/100dayz/2016/11/24/Tick-Tock-Your-Time-is-Running-Out/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/tick-tock/)
