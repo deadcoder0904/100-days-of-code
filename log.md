@@ -204,3 +204,23 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/wrestlers-on-sale/)
 
+### Day 21: November 21th, 2016 (Example 21)
+
+**Today's Progress**: Revamped My Blog.
+
+**Thoughts:** I changed my blog which was using Jekyll to Hugo. As Hugo builds faster than Jekyll because Go(Used in Hugo) is faster than Ruby(Used in Jekyll).
+
+**Blog:** [Day 21](http://deadcoder0904.github.io/100dayz/2016/11/21/Revamped-my-Blog/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/100dayz-code/)
+
+### Day 22: November 22th, 2016 (Example 22)
+
+**Today's Progress**: Refined Github.
+
+**Thoughts:** It is a Chrome Extension that simplifies the GitHub interface and adds useful features created by [Sindresorhus](https://github.com/sindresorhus).
+
+**Blog:** [Day 22](http://deadcoder0904.github.io/100dayz/2016/11/22/Refined-Github/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/refined-github/)
+
