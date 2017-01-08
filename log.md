@@ -74,7 +74,7 @@
 
 ### Day 8: November 8th, 2016 (Example 8)
 
-**Today's Progress**: A2K's Inspiring Curated Quotes .
+**Today's Progress**: A2K's Inspiring Curated Quotes.
 
 **Thoughts:** Fun Web App of my awesome collection of Quotes.
 
@@ -146,7 +146,7 @@
 
 ### Day 15: November 15th, 2016 (Example 15)
 
-**Today's Progress**: Awesome Responsive Navbar .
+**Today's Progress**: Awesome Responsive Navbar.
 
 **Thoughts:** Awesome Navbar which responds on different devices. I used CSS3 flexbox in this.
 
@@ -164,7 +164,7 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/favourite-movies/)
 
-### Day 17: November 17th, 2016 (Example 10)
+### Day 17: November 17th, 2016 (Example 17)
 
 **Today's Progress**: My Favourite Series.
 
@@ -253,3 +253,293 @@
 **Blog:** [Day 25](http://deadcoder0904.github.io/100dayz/2016/11/25/Mangling-CSS-variables-with-JS/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/mangling-css-with-js/)
+
+### Day 26: November 26th, 2016 (Example 26)
+
+**Today's Progress**: Scraping with BeautfiulSoup.
+
+**Thoughts:** Learnt about Web Scraping using Python's BeautfiulSoup to Scrape Daily's Github Trending.
+
+**Blog:** [Day 26](https://deadcoder0904.github.io/100dayz/2016/11/26/Scraping-with-BeautifulSoup/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/scrape-amas/)
+
+### Day 27: November 27th, 2016 (Example 27)
+
+**Today's Progress**: Fun with Key Sequence Detection.
+
+**Thoughts:** Stupid app to remember Key Sequence Pressed.
+
+**Blog:** [Day 27](https://deadcoder0904.github.io/100dayz/2016/11/27/Fun-with-Key-Sequence-Detection/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/key-sequence-detection-fun/)
+
+### Day 28: November 28th, 2016 (Example 28)
+
+**Today's Progress**: Paginate Yo....
+
+**Thoughts:** Pagination made using HTML,CSS & JavaScript.
+
+**Blog:** [Day 28](https://deadcoder0904.github.io/100dayz/2016/11/28/Paginate-Yo/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/paginate-yo/)
+
+### Day 29: November 29th, 2016 (Example 29)
+
+**Today's Progress**: The Expandables.
+
+**Thoughts:** Learnt about CSS3 Transitions.
+
+**Blog:** [Day 29](http://deadcoder0904.github.io/100dayz/2016/11/29/The-Expandables/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/the-expandables/)
+
+### Day 30: November 30th, 2016 (Example 30)
+
+**Today's Progress**: Github Trending CronJob Deployed on Now.
+
+**Thoughts:** Learnt about CronJob.
+
+**Blog:** [Day 30](http://deadcoder0904.github.io/100dayz/2016/11/30/Github-Trending-Cron-on-Now/)
+
+**Link to work:** Code is closed-source.
+
+### Day 31: December 1st, 2016 (Example 31)
+
+**Today's Progress**: Egghead Downloader.
+
+**Thoughts:** Download Egghead Videos in a fly.
+
+**Blog:** [Day 31](http://deadcoder0904.github.io/100dayz/2016/12/01/Egghead-Downloader/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/egghead-videos-download/)
+
+### Day 32: December 2nd, 2016 (Example 32)
+
+**Today's Progress**: Github AMA Reader.
+
+**Thoughts:** This project taught me why we require Frameworks. Most difficult project by me without using any Frameworks. 
+
+**Blog:** [Day 32](http://deadcoder0904.github.io/100dayz/2016/12/02/AMA-Reader/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/AMA-reader)
+
+### Day 33: December 3rd, 2016 (Example 33)
+
+**Today's Progress**: Select Multiple Checkboxes.
+
+**Thoughts:** Select Multiple Checkboxes using a Shift Key.
+
+**Blog:** [Day 33](http://deadcoder0904.github.io/100dayz/2016/12/03/Select-Multiple-Checkboxes/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/multi-select-checkboxes)
+
+### Day 34: December 4th, 2016 (Example 34)
+
+**Today's Progress**: Ajax Type Ahead.
+
+**Thoughts:** Type Ahead Created simply using Plain Ol' JavaScript.
+
+**Blog:** [Day 34](http://deadcoder0904.github.io/100dayz/2016/12/04/Ajax-Type-Ahead/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/ajax-type-ahead)
+
+### Day 35: December 5th, 2016 (Example 35)
+
+**Today's Progress**: HTML5 Canvas.
+
+**Thoughts:** Draw on the Webpage using Canvas. Learnt about HTML5 Canvas.
+
+**Blog:** [Day 35](http://deadcoder0904.github.io/100dayz/2016/12/05/HTML5-Canvas/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/html5-canvas)
+
+### Day 36: December 6th, 2016 (Example 36)
+
+**Today's Progress**: Tabify.
+
+**Thoughts:** Learnt how to create simple Tab Views.
+
+**Blog:** [Day 36](http://deadcoder0904.github.io/100dayz/2016/12/06/Tabify/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/tabify)
+
+### Day 37: December 7th, 2016 (Example 37)
+
+**Today's Progress**: Flexbox Cheatsheet.
+
+**Thoughts:** Learnt about CSS3 Flexbox. A short cheatsheet for me.
+
+**Blog:** [Day 37](http://deadcoder0904.github.io/100dayz/2016/12/07/Flexbox-Cheatsheet/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/flexbox-cheatsheet)
+
+### Day 38: December 8th, 2016 (Example 38)
+
+**Today's Progress**: Planets.
+
+**Thoughts:** Learnt about Local Storage & Event Delegation.
+
+**Blog:** [Day 38](http://deadcoder0904.github.io/100dayz/2016/12/08/Planets/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/planets/)
+
+### Day 39: December 9th, 2016 (Example 39)
+
+**Today's Progress**: Shadow.
+
+**Thoughts:** Learnt how to use CSS3 Shadow effect when you move your mouse.
+
+**Blog:** [Day 39](http://deadcoder0904.github.io/100dayz/2016/12/09/Shadow/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/shadow)
+
+### Day 40: December 10th, 2016 (Example 40)
+
+**Today's Progress**: Flexible Gallery.
+
+**Thoughts:** Flexible Gallery made using Flexbox.
+
+**Blog:** [Day 10](http://deadcoder0904.github.io/100dayz/2016/12/10/Flexible-Gallery/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/flexible-gallery)
+
+### Day 41: December 11th, 2016 (Example 41)
+
+**Today's Progress**: HolyGrail.
+
+**Thoughts:** HolyGrail made using Flexbox.
+
+**Blog:** [Day 41](http://deadcoder0904.github.io/100dayz/2016/12/11/HolyGrail)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/holygrail)
+
+### Day 42: December 12th, 2016 (Example 42)
+
+**Today's Progress**: Slide in on Scroll.
+
+**Thoughts:** Slide In On Scroll Effect made using Transform in CSS3.
+
+**Blog:** [Day 42](http://deadcoder0904.github.io/100dayz/2016/12/12/Slide-In-On-Scroll/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/slide-in-on-scroll)
+
+### Day 43: December 13th, 2016 (Example 43)
+
+**Today's Progress**: Custom HTML5 Video Player.
+
+**Thoughts:** Custom HTML5 video player made using HTML5, CSS3 & VANILLA JS.
+
+**Blog:** [Day 43](http://deadcoder0904.github.io/100dayz/2016/12/13/Custom-HTML5-Video-Player/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/custom-html5-video-player)
+
+### Day 44: December 14th, 2016 (Example 44)
+
+**Today's Progress**: Speech Recognition.
+
+**Thoughts:** Speech Recognition made using HTML5, CSS3 & VANILLA JS.
+
+**Blog:** [Day 44](http://deadcoder0904.github.io/100dayz/2016/12/14/Speech-Recognition/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/speech-recognition)
+
+### Day 45: December 15th, 2016 (Example 45)
+
+**Today's Progress**: Fun With Webcam.
+
+**Thoughts:** Use Webcam in Browser. Created with HTML5, CSS3 & VANILLA JS.
+
+**Blog:** [Day 45](http://deadcoder0904.github.io/100dayz/2016/12/15/Fun-with-Webcam/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/webcam-fun/)
+
+### Day 46: December 16th, 2016 (Example 46)
+
+**Today's Progress**: Follow Along Links.
+
+**Thoughts:** Links that follow the cursor.
+
+**Blog:** [Day 46](http://deadcoder0904.github.io/100dayz/2016/12/16/Follow-Along-Links/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/follow-along-links/)
+
+### Day 47: December 17th, 2016 (Example 47)
+
+**Today's Progress**: Speech Synthesis.
+
+**Thoughts:** Web App for listening what is typed.
+
+**Blog:** [Day 47](http://deadcoder0904.github.io/100dayz/2016/12/17/Speech-Synthesis/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/speech-synthesis/)
+
+### Day 48: December 18th, 2016 (Example 48)
+
+**Today's Progress**: Sticky Nav.
+
+**Thoughts:** Stick the Navigation Bar to the top while Scrolling.
+
+**Blog:** [Day 48](http://deadcoder0904.github.io/100dayz/2016/12/18/Sticky-Nav/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/sticky-nav/)
+
+### Day 49: December 19th, 2016 (Example 49)
+
+**Today's Progress**: Follow Along Dropdown.
+
+**Thoughts:** Stripe Inspired Follow Along Dropdown.
+
+**Blog:** [Day 49](http://deadcoder0904.github.io/100dayz/2016/12/19/Follow-Along-Dropdown/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/follow-along-dropdown)
+
+### Day 50: December 20th, 2016 (Example 50)
+
+**Today's Progress**: Video Speed Scrubber.
+
+**Thoughts:** Hover Over the Speed bar to fast forward the video.
+
+**Blog:** [Day 50](http://deadcoder0904.github.io/100dayz/2016/12/20/Video-Speed-Scrubber/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/video-speed-scrubber/)
+
+### Day 51: December 21th, 2016 (Example 51)
+
+**Today's Progress**: Click and Drag to Scroll.
+
+**Thoughts:** A Web App made to have the effect of Clicking & Dragging To Scroll.
+
+**Blog:** [Day 51](http://deadcoder0904.github.io/100dayz/2016/12/21/Click-and-Drag-To-Scroll/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/click-and-drag-to-scroll/)
+
+### Day 52: December 22th, 2016 (Example 52)
+
+**Today's Progress**: CountDown Clock.
+
+**Thoughts:** Countdown Clock Written in Pure JS.
+
+**Blog:** [Day 52](http://deadcoder0904.github.io/100dayz/2016/12/22/CountDown-Clock/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/countdown-clock/)
+
+### Day 53: December 23rd, 2016 (Example 53)
+
+**Today's Progress**: Whack a Mole.
+
+**Thoughts:** A game created in HTML, CSS & JavaScript called Whack a Mole.
+
+**Blog:** [Day 53](http://deadcoder0904.github.io/100dayz/2016/12/23/Whack-A-Mole/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/whack-a-mole/)
+
+### Day 54: December 24th, 2016 (Example 54)
+
+**Today's Progress**: Slides.
+
+**Thoughts:** Just Another Slide made in HTML5, CSS3 & JavaScript.
+
+**Blog:** [Day 54](http://deadcoder0904.github.io/100dayz/2016/12/24/Slides/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/slides/)
