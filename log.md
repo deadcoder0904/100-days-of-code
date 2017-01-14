@@ -543,3 +543,73 @@
 **Blog:** [Day 54](http://deadcoder0904.github.io/100dayz/2016/12/24/Slides/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/slides/)
+
+### Day 55: December 25th, 2016 (Example 55)
+
+**Today's Progress**: Simple Sections made with CSS3 media queries
+
+**Thoughts:** A Simple Sections made showing 3d effect.
+
+**Blog:** [Day 55](http://deadcoder0904.github.io/100dayz/2016/12/25/Sections/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/sections/)
+
+### Day 56: December 26th, 2016 (Example 56)
+
+**Today's Progress**: Visualise your Gradients using this app.
+
+**Thoughts:** Gradient Generator made using HTML5, CSS3, JavaScript.
+
+**Blog:** [Day 56](https://deadcoder0904.github.io/100dayz/2016/12/26/Gradient-Generator/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/gradient-generator/)
+
+### Day 57: December 27th, 2016 (Example 57)
+
+**Today's Progress**: Simple React Boilerplate.
+
+**Thoughts:** I created React Boilerplate to get started with React & learnt about Webpack to bundle the code.
+
+**Blog:** [Day 57](https://deadcoder0904.github.io/100dayz/2016/12/27/Hey-Yo-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/hey-yo-react/)
+
+### Day 58: November 28th, 2016 (Example 58)
+
+**Today's Progress**: Countdown React.
+
+**Thoughts:** Countdown Clock Written in React JS.
+
+**Blog:** [Day 58](https://deadcoder0904.github.io/100dayz/2016/12/28/Countdown-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/hey-yo-react/)
+
+### Day 59: December 29th, 2016 (Example 59)
+
+**Today's Progress**: Todo React.
+
+**Thoughts:** Todo App in React JS.
+
+**Blog:** [Day 59](http://deadcoder0904.github.io/100dayz/2016/12/29/Todo-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/todo-react/)
+
+### Day 60: December 30th, 2016 (Example 60)
+
+**Today's Progress**: Markdown React.
+
+**Thoughts:** Markdown Previewer in React JS.
+
+**Blog:** [Day 60](http://deadcoder0904.github.io/100dayz/2016/12/30/Markdown-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/md-react/)
+
+### Day 61: December 31th, 2016 (Example 61)
+
+**Today's Progress**: Tic Tac Toe React.
+
+**Thoughts:** Tic Tac Toe game made in React JS.
+
+**Blog:** [Day 61](http://deadcoder0904.github.io/100dayz/2016/12/31/Tic-Tac-Toe-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/tic-tac-toe-react/)
