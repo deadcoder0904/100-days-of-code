@@ -653,3 +653,13 @@
 **Blog:** [Day 64](http://deadcoder0904.github.io/100dayz/2017/01/04/Randomize-Array-React//)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/randomize-array-react)
+
+### Day 65: January 5th, 2017 (Example 66)
+
+**Today's Progress**: Pictorial Quotes in React.
+
+**Thoughts:** :innocent: Awesome Pictorial Quotes(over 500 images :open_mouth:) made using React
+
+**Blog:** [Day 65](http://deadcoder0904.github.io/100dayz/2017/01/05/Pictorial-Quotes-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/pictorial-quotes-react)
