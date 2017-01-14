@@ -613,3 +613,23 @@
 **Blog:** [Day 61](http://deadcoder0904.github.io/100dayz/2016/12/31/Tic-Tac-Toe-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/tic-tac-toe-react/)
+
+### Day 62: January 1st, 2017 (Example 62)
+
+**Today's Progress**: Counter React.
+
+**Thoughts:** Counter App made in React JS.
+
+**Blog:** [Day 62](http://deadcoder0904.github.io/100dayz/2017/01/01/Counter-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/counter-react/)
+
+### Day 63: January 2nd, 2017 (Example 63)
+
+**Today's Progress**: Written Quotes React.
+
+**Thoughts:** Favourite Textual Quotes  made in React JS.
+
+**Blog:** [Day 63](http://deadcoder0904.github.io/100dayz/2017/01/02/Textual-Quotes-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/textual-quotes-react/)
