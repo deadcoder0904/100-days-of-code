@@ -633,3 +633,23 @@
 **Blog:** [Day 63](http://deadcoder0904.github.io/100dayz/2017/01/02/Textual-Quotes-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/textual-quotes-react/)
+
+### Day 64: January 3rd, 2017 (Example 64)
+
+**Today's Progress**: Download ScoopWhoop Images.
+
+**Thoughts:** Download ScoopWhoop Quotes from Console.
+
+**Blog:** [Day 64](http://deadcoder0904.github.io/100dayz/2017/01/03/ScoopWhoop-Images/)
+
+**Link to work:** [Code](https://gist.github.com/deadcoder0904/3d6f602b1034dfc86a80f89707040850)
+
+### Day 64: January 4th, 2017 (Example 65)
+
+**Today's Progress**: Randomized Array in React.
+
+**Thoughts:** Generate a Randomized Array using React JS.
+
+**Blog:** [Day 64](http://deadcoder0904.github.io/100dayz/2017/01/04/Randomize-Array-React//)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/randomize-array-react)
