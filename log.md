@@ -680,6 +680,16 @@
 
 **Thoughts:** Contrast Colors made using React :ghost:
 
-**Blog:** [Day 67](http://deadcoder0904.github.io/100dayz/2017/01/07/Contrast-Colors-React/)
+**Blog:** [Day 68](http://deadcoder0904.github.io/100dayz/2017/01/07/Contrast-Colors-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/contrast-colors-react)
+
+### Day 69: January 8th, 2017 (Example 69)
+
+**Today's Progress**: Random Colors Generator.
+
+**Thoughts:** :kissing_heart: Generate Random Colors in `hsla` format :hankey:
+
+**Blog:** [Day 69](http://deadcoder0904.github.io/100dayz/2017/01/07/Random-Colors-Generator/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/random-colors-generator)
