@@ -690,6 +690,16 @@
 
 **Thoughts:** :kissing_heart: Generate Random Colors in `hsla` format :hankey:
 
-**Blog:** [Day 69](http://deadcoder0904.github.io/100dayz/2017/01/07/Random-Colors-Generator/)
+**Blog:** [Day 69](http://deadcoder0904.github.io/100dayz/2017/01/08/Random-Colors-Generator/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/random-colors-generator)
+
+### Day 70: January 8th, 2017 (Example 70)
+
+**Today's Progress**: Random Colors UI.
+
+**Thoughts:** Over 1000 generated random foreground & background colors :ghost:
+
+**Blog:** [Day 70](http://deadcoder0904.github.io/100dayz/2017/01/09/Random-Colors-UI/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/random-colors-ui)
