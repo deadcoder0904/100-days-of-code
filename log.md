@@ -644,7 +644,7 @@
 
 **Link to work:** [Code](https://gist.github.com/deadcoder0904/3d6f602b1034dfc86a80f89707040850)
 
-### Day 64: January 4th, 2017 (Example 65)
+### Day 65: January 4th, 2017 (Example 65)
 
 **Today's Progress**: Randomized Array in React.
 
@@ -654,7 +654,7 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/randomize-array-react)
 
-### Day 65: January 5th, 2017 (Example 66)
+### Day 66: January 5th, 2017 (Example 66)
 
 **Today's Progress**: Pictorial Quotes in React.
 
@@ -663,3 +663,13 @@
 **Blog:** [Day 65](http://deadcoder0904.github.io/100dayz/2017/01/05/Pictorial-Quotes-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/pictorial-quotes-react)
+
+### Day 67: January 6th, 2017 (Example 67)
+
+**Today's Progress**: Tweet Component in React.
+
+**Thoughts:** Tweet Component made using React :ghost:
+
+**Blog:** [Day 67](http://deadcoder0904.github.io/100dayz/2017/01/06/Tweet-Component-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/tweet-component-react)
