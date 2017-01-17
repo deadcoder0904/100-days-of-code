@@ -703,3 +703,13 @@
 **Blog:** [Day 70](http://deadcoder0904.github.io/100dayz/2017/01/09/Random-Colors-UI/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/random-colors-ui)
+
+### Day 71: January 9th, 2017 (Example 71)
+
+**Today's Progress**: Periodic Table.
+
+**Thoughts:** Periodic Table made using HTML, CSS & JS :heart:
+
+**Blog:** [Day 71](http://deadcoder0904.github.io/100dayz/2017/01/10/Periodic-Table/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/periodic-table)
