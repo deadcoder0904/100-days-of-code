@@ -673,3 +673,13 @@
 **Blog:** [Day 67](http://deadcoder0904.github.io/100dayz/2017/01/06/Tweet-Component-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/tweet-component-react)
+
+### Day 68: January 7th, 2017 (Example 68)
+
+**Today's Progress**: Contrast Colors  React.
+
+**Thoughts:** Contrast Colors made using React :ghost:
+
+**Blog:** [Day 67](http://deadcoder0904.github.io/100dayz/2017/01/07/Contrast-Colors-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/contrast-colors-react)
