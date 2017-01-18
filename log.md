@@ -694,7 +694,7 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/random-colors-generator)
 
-### Day 70: January 8th, 2017 (Example 70)
+### Day 70: January 9th, 2017 (Example 70)
 
 **Today's Progress**: Random Colors UI.
 
@@ -704,7 +704,7 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/random-colors-ui)
 
-### Day 71: January 9th, 2017 (Example 71)
+### Day 71: January 10th, 2017 (Example 71)
 
 **Today's Progress**: Periodic Table.
 
@@ -714,7 +714,7 @@
 
 **Link to work:** [Code](https://github.com/deadcoder0904/periodic-table)
 
-### Day 72: January 10th, 2017 (Example 72)
+### Day 72: January 11th, 2017 (Example 72)
 
 **Today's Progress**: Github Profile Viewer React.
 
