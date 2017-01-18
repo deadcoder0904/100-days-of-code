@@ -713,3 +713,13 @@
 **Blog:** [Day 71](http://deadcoder0904.github.io/100dayz/2017/01/10/Periodic-Table/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/periodic-table)
+
+### Day 72: January 10th, 2017 (Example 72)
+
+**Today's Progress**: Github Profile Viewer React.
+
+**Thoughts:** View any users Github Profile :heart_eyes:
+
+**Blog:** [Day 72](http://deadcoder0904.github.io/100dayz/2017/01/11/Github-Profile-Viewer-React/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/github-profile-viewer-react)
