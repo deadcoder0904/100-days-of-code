@@ -723,3 +723,23 @@
 **Blog:** [Day 72](http://deadcoder0904.github.io/100dayz/2017/01/11/Github-Profile-Viewer-React/)
 
 **Link to work:** [Code](https://github.com/deadcoder0904/github-profile-viewer-react)
+
+### Day 73: January 12th, 2017 (Example 73)
+
+**Today's Progress**: Carousel.
+
+**Thoughts:** Simplest Example of Carousel without any Animation :smiley:
+
+**Blog:** [Day 73](http://deadcoder0904.github.io/100dayz/2017/01/12/Carousel/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/carousel)
+
+### Day 74: January 13th, 2017 (Example 74)
+
+**Today's Progress**: Math for Kids.
+
+**Thoughts:** Read out Math Number for 4-5 year old kids :heart_eyes:
+
+**Blog:** [Day 74](http://deadcoder0904.github.io/100dayz/2017/01/13/Math-For-Kids/)
+
+**Link to work:** [Code](https://github.com/deadcoder0904/math-for-kids)
